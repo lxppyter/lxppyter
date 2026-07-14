@@ -3,6 +3,7 @@
 An anonymous builder documenting the raw process of solving complex problems, designing systems, and shipping products in public.<br>
 
 🧠 Philosophy:<br>
+
 Problem-First: Understand the bottleneck, then choose the tool.<br>
 Continuous Learning: Exploring new paradigms and architectures without stack loyalty.<br>
 Zero Fluff: Just code, design decisions, and database logs.
