@@ -1,8 +1,5 @@
 # Just the source.
 
-An anonymous builder documenting the raw process of solving complex problems, designing systems, and shipping products in public.<br>
-
-
 <br>🧠 Philosophy:<br>
 
 Problem-First: Understand the bottleneck, then choose the tool.<br>
