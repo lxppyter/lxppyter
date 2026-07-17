@@ -1,6 +1,6 @@
 # Just the source.
 
-<br>🧠 Philosophy:<br>
+<br>##🧠 Philosophy:<br>
 
 Problem-First: Understand the bottleneck, then choose the tool.<br>
 Continuous Learning: Exploring new paradigms and architectures without stack loyalty.<br>
