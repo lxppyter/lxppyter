@@ -2,11 +2,11 @@
 
 ## 🧠 Philosophy:<br>
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/40c08b6a-7872-470e-8f1f-1054584db136" />
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/40c08b6a-7872-470e-8f1f-1054584db136" />
  Problem-First: Understand the bottleneck, then choose the tool.<br>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aa90c7e9-fe75-4155-b875-0d2f2bca360b" />
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/aa90c7e9-fe75-4155-b875-0d2f2bca360b" />
  Continuous Learning: Exploring new paradigms and architectures without stack loyalty.<br>
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3c4e0d4e-05ab-4170-86cc-618e8aa66a6e" />
+<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/3c4e0d4e-05ab-4170-86cc-618e8aa66a6e" />
  Zero Fluff: Just code, design decisions, and database logs.
 
 
