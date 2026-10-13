@@ -2,7 +2,7 @@
 
 ## 🧠 Philosophy:<br>
 
- #unica via est per eam transīre.<br>
+ # unica via est per eam transīre.<br>
 
 
 
