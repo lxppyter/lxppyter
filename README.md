@@ -3,7 +3,7 @@
 ## 🧠 Philosophy:<br>
 
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/40c08b6a-7872-470e-8f1f-1054584db136" />
- Understand the bottleneck, then choose the tool.<br>
+ unica via est per eam transīre.<br>
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/aa90c7e9-fe75-4155-b875-0d2f2bca360b" />
  Exploring new paradigms and architectures without stack loyalty.<br>
 <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/3c4e0d4e-05ab-4170-86cc-618e8aa66a6e" />
