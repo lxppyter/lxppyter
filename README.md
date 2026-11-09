@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Just%20the%20source.;Building%20with%20TypeScript%20%C2%B7%20CSS%20%C2%B7%20JavaScript;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Just%20the%20source." alt="" /></a>
 
 <br/>
 
@@ -18,19 +18,6 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚡ whoami
-
-```typescript
-const lxppyter: Developer = {
-  name:      "ジュピター",
-  role:      "System Architect",
-  currently: "building in public",
-};
-```
-
-> Just the source.
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 🌌 Featured Projects
 
