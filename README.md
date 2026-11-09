@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=lxppyter&theme=neon&role=System%20Architect&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="ジュピター profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="ジュピター profile banner" />
 
 <br/>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Just%20the%20source." alt="" /></a>
 
 <br/>
-
-<a href="https://github.com/lxppyter"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
 
 </div>
 
