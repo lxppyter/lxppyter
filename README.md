@@ -13,66 +13,12 @@
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**uniem-saas**
-
-The fully developed version of the student management platform. Included social media, gamification, task system, admin panel.
-
-
-<a href="https://github.com/lxppyter/uniem-saas"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**Ottric**
-
-The unified trust protocol for modern software delivery.
-
-
-<a href="https://github.com/lxppyter/Ottric"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**kivvat**
-
-Automating companies compliance process with complex standards such as ISO 27001, GDPR, or SOC2, reducing the documentation burden.
-
-
-<a href="https://github.com/lxppyter/kivvat"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**argus-panoptes**
-
-Essential knowledge for working with data structures and algorithms
-
-
-<a href="https://github.com/lxppyter/argus-panoptes"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://www.gitskins.com/api/section/stats?username=lxppyter&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=lxppyter&theme=neon&style=aura" width="100%" alt="Contribution activity" />
 
 </div>
 
