@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=lxppyter&theme=neon&v=readme-reference-2" width="100%" alt="ジュピター profile banner" />
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=lxppyter&theme=neon&role=SYSTEM ARCHITECT&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="ジュピター profile banner" />
 
 <br/>
 
